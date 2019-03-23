@@ -3,7 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## React-redux 
 
 In the project directory, you can run:
-
+cd into the directory 
+then npm i and npm start
 ### `npm start`
 
 Runs the app in the development mode.<br>
